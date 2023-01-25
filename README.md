@@ -1,1 +1,2 @@
-# esercizi_gruppo_A
+# GRUPPO A
+## Esercitazioni
